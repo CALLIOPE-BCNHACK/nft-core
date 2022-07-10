@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/kalashnikovprior/Pro/Calliope/hardhat-nft/contracts/BasicNFT.sol": {
-      "lastModificationDate": 1657452417553,
-      "contentHash": "a8640851aa53666d5927b77bcdce0154",
+      "lastModificationDate": 1657457322555,
+      "contentHash": "cafa3fee78b9e7ac4c11e705910b431a",
       "sourceName": "contracts/BasicNFT.sol",
       "solcConfig": {
         "version": "0.8.8",
@@ -45,7 +45,7 @@
         "^0.8.7"
       ],
       "artifacts": [
-        "BasicNFT"
+        "SongNFT"
       ]
     },
     "/Users/kalashnikovprior/Pro/Calliope/hardhat-nft/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
